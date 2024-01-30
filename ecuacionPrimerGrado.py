@@ -10,3 +10,5 @@ elif a == 0 and b != 0 :
     print("la ecuacion no tiene soluciones")
 elif a == 0 and b == 0:
     print("La ecuacion tiene soluciones infinitas")
+else: 
+    print("ERROR")
